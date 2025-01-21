@@ -1,0 +1,19 @@
+body {
+  background-color: #060f1a;
+}
+
+.l-page {
+  background-color: #1a232e;
+}
+
+header.head .notice {
+    color: #32587d;
+}
+
+.p-profiles .profile-head .c-brief header h1 {
+    
+}
+  
+html[data-color-mode=light] {
+    --headline-color: #68b4ff;
+}
