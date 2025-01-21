@@ -10,8 +10,8 @@ header.head .notice {
     color: #32587d;
 }
 
-.p-profiles .profile-head .c-brief header h1 {
-    
+.p-profiles .profile-head .c-brief header h1.aliases:after {
+  color: none;
 }
   
 html[data-color-mode=light] {
