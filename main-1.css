@@ -11,7 +11,7 @@ header.head .notice {
 }
 
 .p-profiles .profile-head .c-brief header h1.aliases:after {
-  color: none;
+  color: unset;
 }
   
 html[data-color-mode=light] {
