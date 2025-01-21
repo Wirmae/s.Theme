@@ -13,6 +13,10 @@ header.head .notice {
 .p-profiles .profile-head .c-brief header h1.aliases:after {
   color: unset;
 }
+
+.b-stats_bar .stat_names .stat_name a {
+    color: #32587d;
+}
   
 html[data-color-mode=light] {
     --headline-color: #68b4ff;
